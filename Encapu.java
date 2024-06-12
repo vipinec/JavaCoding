@@ -5,6 +5,7 @@ class Hima{
 private int mobileNumber;
 private String money;
 private double salary;
+protected int run=30;
 
 
 public int getmobileNumber(){
@@ -37,6 +38,10 @@ public class Encapu {
 
         jj.setmoney("9473882");
         System.out.println("Private meney in swis bank "+jj.getmoney());
+
+        System.out.println(jj.run);
+
+
 
 
 
