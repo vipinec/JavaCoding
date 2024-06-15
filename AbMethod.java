@@ -12,6 +12,7 @@ class Dog extends GmaerPlayer{
     public void pk(){
 
         System.out.println("inheeriated pk method");
+        System.out.println("vipin testing");
     }
 }
 
