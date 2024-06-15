@@ -1,4 +1,5 @@
-abstract class Animal{
+package JavaCoding;
+ abstract class Animal{
 
 
     public void setup(){
@@ -6,7 +7,6 @@ abstract class Animal{
         System.out.println("animal public class");
     }
 }
-
 
 public class Abstract1 extends Animal{
     public static void main(String[] args){

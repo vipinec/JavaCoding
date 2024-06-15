@@ -1,4 +1,4 @@
-
+package JavaCoding;
 abstract class A{
 
     private String name;
