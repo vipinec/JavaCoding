@@ -18,7 +18,7 @@ public class LargestThrreNum {
 
         }
         else{
-            System.out.println(c + " c is largest number");
+            System.out.println(c + " c is largest number now");
 
 
         }
