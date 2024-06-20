@@ -1,7 +1,15 @@
 public class Basic {
     public static void main(String[] args){
 
-        System.out.println("basic test in project  ");
+       int n=12;
+
+       if(n>0){
+        System.out.println("Positive Number");
+       }else{
+
+        System.out.println("Negativer Number");
+
+       }
     }
     
 }
