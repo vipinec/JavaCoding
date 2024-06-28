@@ -12,6 +12,7 @@ public class PatternJavaPro {
             }
 
             System.out.print("\n");
+            System.out.print("only this line added");
         }
 
 
