@@ -11,7 +11,7 @@ public class PatternJavaPro {
                 System.out.print("*");
             }
 
-            System.out.print("\n");
+            System.out.print("\n" + " radhe radhe");
         }
 
 
