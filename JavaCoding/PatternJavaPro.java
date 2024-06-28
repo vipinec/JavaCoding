@@ -11,6 +11,7 @@ public class PatternJavaPro {
                 System.out.print("*");
             }
 
+            System.out.print("\n" + " radhe radhe");
             System.out.print("\n");
             System.out.print("only this line added");
         }
