@@ -21,6 +21,7 @@ public class LinkedListTest {
         // System.out.println(list.remove(0));
         // System.out.println(list);
 
+        // list.removeFirst(0);
         for(int i=0; i<list.size(); i++){
             if(list.get(i)=="is"){
                 System.out.print("element is now available here");
